@@ -1,7 +1,6 @@
-var score = 1; // Create a variable to store the score in
-
+var score = 0; 
 var title = new Title('eternity');
-//hidden.hide();
+let button = new Button('gather time');
 var scr = new Text(score);    
 
 function btnPress() {
