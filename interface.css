@@ -8,7 +8,7 @@ body{
 	/*text-shadow: 3px 0 0 #fff, -3px 0 0 #fff, 0 3px 0 #fff, 0 -3px 0 #fff, 2px 2px 0 #fff, -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff;*/
 	text-shadow:none;
 }
-#strip{
+#banner{
 	text-shadow:none;
 }
 .icon-lg{
@@ -85,4 +85,11 @@ button{
 	padding:0.1em;
 	font-size:1.0em;
 	font-weight:500;
+}
+#stuff{
+	float:left;
+	width:50%;
+}
+#materials{
+	margin-left:0.5em;
 }
