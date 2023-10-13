@@ -1,8 +1,8 @@
-var score = 0; 
+var Time = 0; 
 var title = new Title('eternity');
-createButton('gather time' btnpress);
-var scr = new Text(score);    
+var button= new Button('gather time' btnpress);
+var scr = new Text(Time);    
 function btnPress('gather time') {
   score++;
-  scr.edit(score);
+  scr.edit(Time);
 }
